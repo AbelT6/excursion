@@ -24,3 +24,9 @@ h2 {
 p { 
     color : grey ; 
 }
+
+footer 
+p { 
+    text-align : right ; 
+    color: gray ; 
+}
